@@ -1,0 +1,15 @@
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\obj\Debug\net6.0\editorHTML.csproj.AssemblyReference.cache
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\obj\Debug\net6.0\editorHTML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\obj\Debug\net6.0\editorHTML.AssemblyInfoInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\obj\Debug\net6.0\editorHTML.AssemblyInfo.cs
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\obj\Debug\net6.0\editorHTML.csproj.CoreCompileInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\bin\Debug\net6.0\editorHTML.exe
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\bin\Debug\net6.0\editorHTML.deps.json
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\bin\Debug\net6.0\editorHTML.runtimeconfig.json
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\bin\Debug\net6.0\editorHTML.dll
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\bin\Debug\net6.0\editorHTML.pdb
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\obj\Debug\net6.0\editorHTML.dll
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\obj\Debug\net6.0\refint\editorHTML.dll
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\obj\Debug\net6.0\editorHTML.pdb
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\obj\Debug\net6.0\editorHTML.genruntimeconfig.cache
+D:\Junior\Desktop\FundamentosDoC#\editorHTML\obj\Debug\net6.0\ref\editorHTML.dll

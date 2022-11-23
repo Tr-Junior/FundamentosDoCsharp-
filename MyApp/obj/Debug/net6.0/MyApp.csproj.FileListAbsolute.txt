@@ -1,0 +1,15 @@
+D:\Junior\Desktop\FundamentosDoC#\MyApp\bin\Debug\net6.0\MyApp.exe
+D:\Junior\Desktop\FundamentosDoC#\MyApp\bin\Debug\net6.0\MyApp.deps.json
+D:\Junior\Desktop\FundamentosDoC#\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+D:\Junior\Desktop\FundamentosDoC#\MyApp\bin\Debug\net6.0\MyApp.dll
+D:\Junior\Desktop\FundamentosDoC#\MyApp\bin\Debug\net6.0\MyApp.pdb
+D:\Junior\Desktop\FundamentosDoC#\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+D:\Junior\Desktop\FundamentosDoC#\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Junior\Desktop\FundamentosDoC#\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+D:\Junior\Desktop\FundamentosDoC#\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\MyApp\obj\Debug\net6.0\MyApp.dll
+D:\Junior\Desktop\FundamentosDoC#\MyApp\obj\Debug\net6.0\refint\MyApp.dll
+D:\Junior\Desktop\FundamentosDoC#\MyApp\obj\Debug\net6.0\MyApp.pdb
+D:\Junior\Desktop\FundamentosDoC#\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+D:\Junior\Desktop\FundamentosDoC#\MyApp\obj\Debug\net6.0\ref\MyApp.dll

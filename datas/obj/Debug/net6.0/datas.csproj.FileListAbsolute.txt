@@ -1,0 +1,15 @@
+D:\Junior\Desktop\FundamentosDoC#\datas\bin\Debug\net6.0\datas.exe
+D:\Junior\Desktop\FundamentosDoC#\datas\bin\Debug\net6.0\datas.deps.json
+D:\Junior\Desktop\FundamentosDoC#\datas\bin\Debug\net6.0\datas.runtimeconfig.json
+D:\Junior\Desktop\FundamentosDoC#\datas\bin\Debug\net6.0\datas.dll
+D:\Junior\Desktop\FundamentosDoC#\datas\bin\Debug\net6.0\datas.pdb
+D:\Junior\Desktop\FundamentosDoC#\datas\obj\Debug\net6.0\datas.csproj.AssemblyReference.cache
+D:\Junior\Desktop\FundamentosDoC#\datas\obj\Debug\net6.0\datas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Junior\Desktop\FundamentosDoC#\datas\obj\Debug\net6.0\datas.AssemblyInfoInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\datas\obj\Debug\net6.0\datas.AssemblyInfo.cs
+D:\Junior\Desktop\FundamentosDoC#\datas\obj\Debug\net6.0\datas.csproj.CoreCompileInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\datas\obj\Debug\net6.0\datas.dll
+D:\Junior\Desktop\FundamentosDoC#\datas\obj\Debug\net6.0\refint\datas.dll
+D:\Junior\Desktop\FundamentosDoC#\datas\obj\Debug\net6.0\datas.pdb
+D:\Junior\Desktop\FundamentosDoC#\datas\obj\Debug\net6.0\datas.genruntimeconfig.cache
+D:\Junior\Desktop\FundamentosDoC#\datas\obj\Debug\net6.0\ref\datas.dll

@@ -1,0 +1,15 @@
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\bin\Debug\net6.0\TextEditor.exe
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\bin\Debug\net6.0\TextEditor.dll
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\obj\Debug\net6.0\TextEditor.dll
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+D:\Junior\Desktop\FundamentosDoC#\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll

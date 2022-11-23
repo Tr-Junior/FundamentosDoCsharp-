@@ -1,0 +1,15 @@
+D:\Junior\Desktop\FundamentosDoC#\jogo\obj\Debug\net6.0\jogo.csproj.AssemblyReference.cache
+D:\Junior\Desktop\FundamentosDoC#\jogo\obj\Debug\net6.0\jogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Junior\Desktop\FundamentosDoC#\jogo\obj\Debug\net6.0\jogo.AssemblyInfoInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\jogo\obj\Debug\net6.0\jogo.AssemblyInfo.cs
+D:\Junior\Desktop\FundamentosDoC#\jogo\obj\Debug\net6.0\jogo.csproj.CoreCompileInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\jogo\bin\Debug\net6.0\jogo.exe
+D:\Junior\Desktop\FundamentosDoC#\jogo\bin\Debug\net6.0\jogo.deps.json
+D:\Junior\Desktop\FundamentosDoC#\jogo\bin\Debug\net6.0\jogo.runtimeconfig.json
+D:\Junior\Desktop\FundamentosDoC#\jogo\bin\Debug\net6.0\jogo.dll
+D:\Junior\Desktop\FundamentosDoC#\jogo\bin\Debug\net6.0\jogo.pdb
+D:\Junior\Desktop\FundamentosDoC#\jogo\obj\Debug\net6.0\jogo.dll
+D:\Junior\Desktop\FundamentosDoC#\jogo\obj\Debug\net6.0\refint\jogo.dll
+D:\Junior\Desktop\FundamentosDoC#\jogo\obj\Debug\net6.0\jogo.pdb
+D:\Junior\Desktop\FundamentosDoC#\jogo\obj\Debug\net6.0\jogo.genruntimeconfig.cache
+D:\Junior\Desktop\FundamentosDoC#\jogo\obj\Debug\net6.0\ref\jogo.dll

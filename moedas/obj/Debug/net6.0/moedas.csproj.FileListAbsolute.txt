@@ -1,0 +1,15 @@
+D:\Junior\Desktop\FundamentosDoC#\moedas\obj\Debug\net6.0\moedas.csproj.AssemblyReference.cache
+D:\Junior\Desktop\FundamentosDoC#\moedas\obj\Debug\net6.0\moedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Junior\Desktop\FundamentosDoC#\moedas\obj\Debug\net6.0\moedas.AssemblyInfoInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\moedas\obj\Debug\net6.0\moedas.AssemblyInfo.cs
+D:\Junior\Desktop\FundamentosDoC#\moedas\obj\Debug\net6.0\moedas.csproj.CoreCompileInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\moedas\bin\Debug\net6.0\moedas.exe
+D:\Junior\Desktop\FundamentosDoC#\moedas\bin\Debug\net6.0\moedas.deps.json
+D:\Junior\Desktop\FundamentosDoC#\moedas\bin\Debug\net6.0\moedas.runtimeconfig.json
+D:\Junior\Desktop\FundamentosDoC#\moedas\bin\Debug\net6.0\moedas.dll
+D:\Junior\Desktop\FundamentosDoC#\moedas\bin\Debug\net6.0\moedas.pdb
+D:\Junior\Desktop\FundamentosDoC#\moedas\obj\Debug\net6.0\moedas.dll
+D:\Junior\Desktop\FundamentosDoC#\moedas\obj\Debug\net6.0\refint\moedas.dll
+D:\Junior\Desktop\FundamentosDoC#\moedas\obj\Debug\net6.0\moedas.pdb
+D:\Junior\Desktop\FundamentosDoC#\moedas\obj\Debug\net6.0\moedas.genruntimeconfig.cache
+D:\Junior\Desktop\FundamentosDoC#\moedas\obj\Debug\net6.0\ref\moedas.dll

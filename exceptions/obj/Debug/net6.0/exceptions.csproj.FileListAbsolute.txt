@@ -1,0 +1,15 @@
+D:\Junior\Desktop\FundamentosDoC#\exceptions\bin\Debug\net6.0\exceptions.exe
+D:\Junior\Desktop\FundamentosDoC#\exceptions\bin\Debug\net6.0\exceptions.deps.json
+D:\Junior\Desktop\FundamentosDoC#\exceptions\bin\Debug\net6.0\exceptions.runtimeconfig.json
+D:\Junior\Desktop\FundamentosDoC#\exceptions\bin\Debug\net6.0\exceptions.dll
+D:\Junior\Desktop\FundamentosDoC#\exceptions\bin\Debug\net6.0\exceptions.pdb
+D:\Junior\Desktop\FundamentosDoC#\exceptions\obj\Debug\net6.0\exceptions.csproj.AssemblyReference.cache
+D:\Junior\Desktop\FundamentosDoC#\exceptions\obj\Debug\net6.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Junior\Desktop\FundamentosDoC#\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfoInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfo.cs
+D:\Junior\Desktop\FundamentosDoC#\exceptions\obj\Debug\net6.0\exceptions.csproj.CoreCompileInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\exceptions\obj\Debug\net6.0\exceptions.dll
+D:\Junior\Desktop\FundamentosDoC#\exceptions\obj\Debug\net6.0\refint\exceptions.dll
+D:\Junior\Desktop\FundamentosDoC#\exceptions\obj\Debug\net6.0\exceptions.pdb
+D:\Junior\Desktop\FundamentosDoC#\exceptions\obj\Debug\net6.0\exceptions.genruntimeconfig.cache
+D:\Junior\Desktop\FundamentosDoC#\exceptions\obj\Debug\net6.0\ref\exceptions.dll

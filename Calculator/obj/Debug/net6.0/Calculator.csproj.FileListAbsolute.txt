@@ -1,0 +1,15 @@
+D:\Junior\Desktop\FundamentosDoC#\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\Junior\Desktop\FundamentosDoC#\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\Junior\Desktop\FundamentosDoC#\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Junior\Desktop\FundamentosDoC#\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\Junior\Desktop\FundamentosDoC#\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\Junior\Desktop\FundamentosDoC#\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Junior\Desktop\FundamentosDoC#\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Junior\Desktop\FundamentosDoC#\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Junior\Desktop\FundamentosDoC#\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Junior\Desktop\FundamentosDoC#\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\Junior\Desktop\FundamentosDoC#\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\Junior\Desktop\FundamentosDoC#\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\Junior\Desktop\FundamentosDoC#\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\Junior\Desktop\FundamentosDoC#\Calculator\obj\Debug\net6.0\ref\Calculator.dll
